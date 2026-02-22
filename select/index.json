@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Green Green Grass",
+  "base_artist": "George Ezra",
+  "createdAt": "2026-02-22T13:22:35.195816Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Green Green Grass Of Tunnel",
+      "artist": "múm",
+      "has_synced": false,
+      "path": "select/01_Green_Green_Grass_Of_Tunnel_múm.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Green, Green Grass Of Home - Live",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/02_Green,_Green_Grass_Of_Home_-_Live_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Green Green Grass",
+      "artist": "The American Analog Set",
+      "has_synced": true,
+      "path": "select/03_The_Green_Green_Grass_The_American_Analog_Set.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Green Green Grass",
+      "artist": "The American Analog Set",
+      "has_synced": true,
+      "path": "select/04_Green_Green_Grass_The_American_Analog_Set.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Green, Green Grass of Home",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_Green,_Green_Grass_of_Home_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Green Green Grass Of Home",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_Green_Green_Grass_Of_Home_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Green Green Grass of Home",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/07_Green_Green_Grass_of_Home_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Green Green Grass of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/08_Green_Green_Grass_of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/09_Green,_Green_Grass_of_Home_-_Live_at_Folsom_State_Prison,_Folsom,_CA_(1st_Show)__Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Green, Green Grass of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/10_Green,_Green_Grass_of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "03 - Green Green Grass Of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/11_03_-_Green_Green_Grass_Of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Green Green Grass Of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/12_Green_Green_Grass_Of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Green Green Grass Of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/13_Green_Green_Grass_Of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Green, Green Grass Of Home",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/14_Green,_Green_Grass_Of_Home_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Green Green Grass of Home",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/15_Green_Green_Grass_of_Home_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Green, Green Grass of Home",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/16_Green,_Green_Grass_of_Home_Bobby_Bare.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Green Green Grass",
+      "artist": "George Ezra",
+      "has_synced": false,
+      "path": "select/pl_01_Green_Green_Grass_George_Ezra.txt"
+    }
+  ]
+}
